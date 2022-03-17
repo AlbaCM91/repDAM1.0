@@ -6,8 +6,9 @@ public class Ejemplo1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hola hola");
-		System.out.println("Segunda Línea");
-		System.out.println("Tercera Línea");
+		System.out.println("Segunda LÃ­nea");
+		System.out.println("Tercera LÃ­nea");
+			System.out.println("cambios desde GitHub");
 		
 	}
 
